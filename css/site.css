@@ -14,13 +14,12 @@
 }
 
 .logoFont {
-  font-family: uniwars, sans-serif;
-  font-weight: 600;
-  font-style: italic;
+  font-family: roboto, sans-serif;
 }
 
 body {
   color: var(--dark-color);
+  font-family: roboto, sans-serif;
 }
 
 nav {
